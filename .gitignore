@@ -7,9 +7,13 @@ wheels/
 *.egg-info
 
 # Virtual environments
+<<<<<<< HEAD
 venv/
 .env
 __pycache__/
 .DS_Store
 node_modules/
 .next/
+=======
+.venv
+>>>>>>> 6dd2bc89455baee8d1193564e0fc7d886e0cdbc5
